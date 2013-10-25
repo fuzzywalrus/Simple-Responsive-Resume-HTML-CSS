@@ -1,4 +1,4 @@
-#Simple-Responsive-Resume-HTML-CSS
+#Simple Responsive Resume HTML CSS
 =================================
 
 A simple responsive designed resumé designed to work well on phones, tablets and desktops
