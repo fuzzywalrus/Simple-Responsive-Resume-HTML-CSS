@@ -19,8 +19,8 @@ Project Goals:
 * Pracitcal and Tasteful
 * Keep the Markup roughly 200 lines of HTML
 * Keep CSS lightweight and media queries minimal
-* Stay Javascript free
-* Provide several layouts (The current layout favors individuals a few years of experience or more)
+* Stay Javascript free (The demo uses JQuery for demostration purposes)
+* Provide several layouts (Currently this features two layouts based on experience)
 
 Ideally this resumé will only require basic knowledge of HTML. Job hunting is time consuming / stressful enough as it is writing and proofing cover letters, searching for jobs, interviewing. This template shouldn't make this process worse.
 
@@ -29,12 +29,12 @@ A simple responsive designed resumé designed to work well on phones, tablets an
 What this isn't
 ---------------
 
-This project will not be a Portfolio. There are alternatives on GitHub  
+This project will not be a Portfolio. There are alternatives on GitHub.
 
 
 Demo
 ----
 
-[See a Live Demo](http://htmlpreview.github.io/?https://github.com/fuzzywalrus/Simple-Responsive-Resume-HTML-CSS/blob/master/index.html)
+[See a Live Demo](http://htmlpreview.github.io/?https://github.com/fuzzywalrus/Simple-Responsive-Resume-HTML-CSS/blob/master/demo.html)
 
 
