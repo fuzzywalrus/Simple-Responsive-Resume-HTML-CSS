@@ -40,7 +40,7 @@ body {
     font-family: Raleway;
     color: #444;
     line-height: 1.375;
-    background-image: url('img/textured_paper.png');
+    background-image: url(img/textured_paper.png);
 }
 /* ================== Typography ================*/
 h1, h2, h3, h4 {
