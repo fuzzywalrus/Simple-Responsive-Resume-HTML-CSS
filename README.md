@@ -1,17 +1,15 @@
 #Simple & Elegant, Lightweight Responsive Resume (HTML+CSS)
-=================================
+------------
 
-
-
-Introduction
+## Introduction
 ------------
 Not everyone is a front end developer/designer and even among us, few of us really enjoy laying out our resumés. Portfolios are exciting, and flashy. Resumés are not, nor should they be. Nor should they be PDF only. 
 
 While mobile phones and  tablets can view PDFs, PDFs aren't accommodating of screen resolution. During my job hunt, I was tired of attaching PDFs to e-mails and annoyed with some job application systems that asked for an optional Resumés, only to allow .doc format. I do not own MS office and wonderfully formatted Resumés in Pages lose their luster after conversion. It was time to address this problem.  
 
-I developed a simple HTML/CSS resumé, with a simple grid system, with a few minor CSS3 effects. I can only testify that this is the resumé that landed me my current job. I have also been on the opposite end, reviewing résumés. I am not a hiring manager but when asked to help sort throough a stack of résumés while normal job duties, one quickly appreciates the clear and elegant résumés.
+I developed a simple HTML/CSS resumé, with a simple grid system, with a few minor CSS3 effects. I can only testify that this is the resumé that landed me my current job. I have also been on the opposite end, reviewing résumés. I am not a hiring manager but when asked to help sort throough a stack of résumés while normal job duties, one quickly appreciates the clear and elegant résumés. These are tailored to be straight and to the point, suitable for developers,
 
-Project Goals: 
+## Project Goals: 
 --------------
 
 * Create a simple, ultra lightweight atheistically pleasing resumé template. 
@@ -26,13 +24,13 @@ Ideally this resumé will only require basic knowledge of HTML. Job hunting is t
 
 A simple responsive designed resumé designed to work well on phones, tablets and desktops
 
-What this isn't
+## What this isn't
 ---------------
 
 This project will not be a Portfolio. There are alternatives on GitHub.
 
 
-Demo
+**Demo**
 ----
 
 [See a Live Demo](http://htmlpreview.github.io/?https://github.com/fuzzywalrus/Simple-Responsive-Resume-HTML-CSS/blob/master/demo.html)
