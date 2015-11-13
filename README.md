@@ -7,7 +7,7 @@ Not everyone is a front end developer/designer and even among us, few of us real
 
 While mobile phones and  tablets can view PDFs, PDFs aren't accommodating of screen resolution. During my job hunt, I was tired of attaching PDFs to e-mails and annoyed with some job application systems that asked for an optional Resumés, only to allow .doc format. I do not own MS office and wonderfully formatted Resumés in Pages lose their luster after conversion. It was time to address this problem.  
 
-I developed a simple HTML/CSS resumé, with a simple grid system, with a few minor CSS3 effects. I can only testify that this is the resumé that landed me my current job. I have also been on the opposite end, reviewing résumés. I am not a hiring manager but when asked to help sort throough a stack of résumés while normal job duties, one quickly appreciates the clear and elegant résumés. These are tailored to be straight and to the point, suitable for developers,
+I developed a simple HTML/CSS resumé, with a simple grid system, with a few minor CSS3 effects. I can only testify that this is the resumé that landed me my current job. I have also been on the opposite end, reviewing résumés and while I am not a hiring manager but when asked to help sort through a stack of résumés while normal job duties, one quickly appreciates the clear and elegant résumés. These are tailored to be straight and to the point, suitable for developers,
 
 ## Project Goals: 
 --------------
